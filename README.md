@@ -204,3 +204,5 @@ Higher production volumes necessitate longer lead times to ensure adequate time 
 ## Links
 
 [Power Bi Dashbaord](https://app.powerbi.com/view?r=eyJrIjoiYzgzMTQ1YjItMmIwZC00MTBmLWJiOTUtYzZlNTFmNzYyMzA2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+<!-- auto-update 2025-05-04 13:15:25 -->
